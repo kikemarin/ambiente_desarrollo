@@ -11,7 +11,8 @@
 
 	- sudo apt-get install git <enter>
 		(solicita contraseña de administrador).
-	Una vez instalado agregar en el archivo oculto ".gitconfig" las siguientes lineas para mejor desarrollo (de no existir crear archivo):
+	Una vez instalado, agregar en el archivo oculto ".gitconfig" 
+	las siguientes instrucciones para mejor desarrollo (de no existir crear archivo):
 
 ```
 [user]
