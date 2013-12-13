@@ -68,4 +68,6 @@ vagrant box add server64 https://opscode-vm-bento.s3.amazonaws.com/vagrant/opsco
 ```
 Con lo anterior estamos instalando el servidor, esperar la descarga.
 
+## Nuevo Item
 
+Esta es una prueba de modificación del archivo.
