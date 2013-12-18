@@ -9,8 +9,15 @@
 
 ## GIT - Instalación
 
+	Para linux:
 	- sudo apt-get install git <enter>
-		(solicita contraseña de administrador).
+		(Solicita contraseña de administrador).
+
+	Para Mac:
+	Descargar el instalador gráfico de Git, desde la página de Google Code
+	http://code.google.com/p/git-osx-installer
+	Seguir los pasos de la instalación.
+		
 	Una vez instalado, agregar en el archivo oculto ".gitconfig" 
 	las siguientes instrucciones para mejor desarrollo (de no existir crear archivo):
 
